@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:01:51.098Z'
-dateModified: '2016-03-04T06:01:45.801Z'
+datePublished: '2016-03-04T06:02:50.805Z'
+dateModified: '2016-03-04T06:02:37.546Z'
 title: 'New Year, New Me.'
 author: []
 sourcePath: _posts/2016-03-04-new-year-new-me.md
