@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T05:26:10.957Z'
-dateModified: '2016-03-04T05:25:18.932Z'
+datePublished: '2016-03-04T05:38:28.570Z'
+dateModified: '2016-03-04T05:26:15.461Z'
 title: 'New Year, New Me.'
 author: []
+sourcePath: _posts/2016-03-04-new-year-new-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-new-year-new-me.md
-published: true
 url: new-year-new-me/index.html
 _type: Article
 
