@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:01:24.478Z'
-dateModified: '2016-03-04T06:01:17.767Z'
+datePublished: '2016-03-04T06:01:51.098Z'
+dateModified: '2016-03-04T06:01:45.801Z'
 title: 'New Year, New Me.'
 author: []
 sourcePath: _posts/2016-03-04-new-year-new-me.md
@@ -26,7 +26,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/066aff50-e851-4684-8f4e-a49ac4fabbc7.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius ante in tincidunt commodo. Nunc varius diam eget tincidunt posuere. Maecenas id tellus non est auctor feugiat. Vivamus mollis tincidunt ultrices. Morbi scelerisque viverra eros quis porttitor. Morbi ante enim, congue sed dignissim id, pretium eu libero. Donec ultrices eleifend ipsum, at dignissim magna. Nam fringilla, ipsum quis lacinia placerat, nunc ligula vestibulum massa, in iaculis ex justo nec leo. Donec lectus orci, condimentum vel ornare vitae, cursus id purus. Curabitur convallis lacinia urna, vel consequat ante imperdiet vitae. Nam congue metus eget nulla pellentesque, sit amet pellentesque purus cursus. Ut tincidunt dictum tempor. Fusce suscipit felis sed risus eleifend, et sagittis justo iaculis.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dca05-a852-4025-8a3f-0eeaf2c52c97.jpg)
 
 Vestibulum euismod laoreet turpis in porttitor. Fusce lacus arcu, sagittis at dolor congue, dapibus malesuada ipsum. Proin non congue odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec tincidunt leo. In et ligula vitae tellus vehicula aliquet a eget leo. Fusce sollicitudin eros at sodales commodo.
 
