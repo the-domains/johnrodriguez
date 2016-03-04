@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T05:38:28.570Z'
-dateModified: '2016-03-04T05:26:15.461Z'
+datePublished: '2016-03-04T06:00:26.160Z'
+dateModified: '2016-03-04T06:00:01.142Z'
 title: 'New Year, New Me.'
 author: []
 sourcePath: _posts/2016-03-04-new-year-new-me.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # New Year, New Me.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/066aff50-e851-4684-8f4e-a49ac4fabbc7.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius ante in tincidunt commodo. Nunc varius diam eget tincidunt posuere. Maecenas id tellus non est auctor feugiat. Vivamus mollis tincidunt ultrices. Morbi scelerisque viverra eros quis porttitor. Morbi ante enim, congue sed dignissim id, pretium eu libero. Donec ultrices eleifend ipsum, at dignissim magna. Nam fringilla, ipsum quis lacinia placerat, nunc ligula vestibulum massa, in iaculis ex justo nec leo. Donec lectus orci, condimentum vel ornare vitae, cursus id purus. Curabitur convallis lacinia urna, vel consequat ante imperdiet vitae. Nam congue metus eget nulla pellentesque, sit amet pellentesque purus cursus. Ut tincidunt dictum tempor. Fusce suscipit felis sed risus eleifend, et sagittis justo iaculis.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dca05-a852-4025-8a3f-0eeaf2c52c97.jpg)
