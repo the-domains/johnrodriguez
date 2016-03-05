@@ -1,29 +1,41 @@
-name: John Rodriguez
-favicon: null
-layout_spectrum: 0.09538
-typography_spectrum: 0.61658
-title: John Orlando Rodriguez
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.09538
+title: John Orlando Rodriguez
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0
+  brandStrength: 0.5
+  rhythmicContrast: 0
   brandColors:
     - '#ffffff'
     - '#292929'
     - '#6ea6bf'
     - '#00aa47'
     - '#00cbef'
-  brandStrength: 0.5
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
 purpose: []
+favicon: null
+name: John Rodriguez
+typography_spectrum: 0.61658
