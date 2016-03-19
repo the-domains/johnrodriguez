@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-04T06:02:50.805Z'
-dateModified: '2016-03-04T06:02:37.546Z'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius ante in tincidunt commodo. Nunc varius diam eget tincidunt posuere. Maecenas id tellus non est auctor feugiat. Vivamus mollis tincidunt ultrices. Morbi scelerisque viverra eros quis porttitor. Morbi ante enim, congue sed dignissim id, pretium eu libero. Donec ultrices eleifend ipsum, at dignissim magna. Nam fringilla, ipsum quis lacinia placerat, nunc ligula vestibulum massa, in iaculis ex justo nec leo. Donec lectus orci, condimentum vel ornare vitae, cursus id purus. Curabitur convallis lacinia urna, vel consequat ante imperdiet vitae. Nam congue metus eget nulla pellentesque, sit amet pellentesque purus cursus. Ut tincidunt dictum tempor. Fusce suscipit felis sed risus eleifend, et sagittis justo iaculis.'
+datePublished: '2016-03-19T17:16:13.091Z'
+dateModified: '2016-03-19T17:15:03.790Z'
 title: 'New Year, New Me.'
 author: []
 sourcePath: _posts/2016-03-04-new-year-new-me.md
